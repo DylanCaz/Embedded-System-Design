@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "unlv_logo")(type "KiCad")(uri "${KIPRJMOD}/unlv_logo.pretty")(options "")(descr ""))
+)

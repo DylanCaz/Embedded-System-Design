@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "8-1437565-1")(type "Legacy")(uri "${KIPRJMOD}/8-1437565-1.lib")(options "")(descr ""))
+  (lib (name "3362P-1-103LF")(type "Legacy")(uri "${KIPRJMOD}/3362P-1-103LF.lib")(options "")(descr ""))
+  (lib (name "LTST-C193TGKT-5A")(type "Legacy")(uri "${KIPRJMOD}/LTST-C193TGKT-5A.lib")(options "")(descr ""))
+  (lib (name "RC0603JR-071KL")(type "Legacy")(uri "${KIPRJMOD}/RC0603JR-071KL.lib")(options "")(descr ""))
+)
